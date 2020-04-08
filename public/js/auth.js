@@ -1,6 +1,6 @@
 const authSwitchLinks = document.querySelectorAll('.switch');
 const authModals = document.querySelectorAll('.auth .modal');
-const authWrapper = document.querySelector('auth');
+const authWrapper = document.querySelector('.auth');
 const registerForm = document.querySelector('.register');
 const loginForm = document.querySelector('.login');
 const signOut = document.querySelector('.sign-out');
